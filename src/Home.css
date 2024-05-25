@@ -1,0 +1,13 @@
+/* Home.css */
+.bg-body-tertiary {
+  background-color: #fff; /* Cor de fundo da navbar */
+}
+
+body {
+  background-color: #fff9e2; /* Cor de fundo do body */
+}
+
+/* Estilo extra para o logotipo */
+.navbar-brand img {
+  height: 40px; /* Define a altura da imagem do logotipo */
+}
